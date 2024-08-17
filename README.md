@@ -1,5 +1,6 @@
 # bibToCOI
-## original author: Paul Rosen <paul.rosen@utah.edu>
+
+Author: Paul Rosen <paul.rosen@utah.edu>
 
 Python application that converts authors from bibtex to a list of potential COIs (e.g., for NSF)
 
